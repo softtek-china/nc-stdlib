@@ -18,6 +18,9 @@ public enum MessageType {
         this.value = value;
     }
 
+    /**
+     * 获取值
+     */
     public Integer getValue() {
         return this.value;
     }
